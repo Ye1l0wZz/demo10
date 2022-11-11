@@ -15,7 +15,7 @@
 <jsp:getProperty property="firstNum" name="calcu"/>
 <jsp:getProperty property="operator" name="calcu"/>
 <jsp:getProperty property="secondNum" name="calcu"/>
-
+=
 <jsp:getProperty property="result" name="calcu"/>
 <br/>--------------------------------------------------------------------------------------------<br/>
 
