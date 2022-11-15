@@ -1,6 +1,6 @@
 <body style="text-align: center;">
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
-<jsp:useBean id="calcu" class="com.example.demo10.CalculateBean"/>
+<jsp:useBean id="calcu" class="javabean.CalculateBean"/>
 <jsp:setProperty property="*" name="calcu"/>
 <%
     try{
